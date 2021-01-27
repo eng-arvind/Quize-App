@@ -68,13 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
 This is navebar of Quiz App.
+
 ![Screenshot (141)](https://user-images.githubusercontent.com/41833207/105996017-ca180280-60cf-11eb-945f-b64dc7e8b391.png)
+
+
+
 There are five question in each time.
+
 ![Screenshot (142)](https://user-images.githubusercontent.com/41833207/105996117-eddb4880-60cf-11eb-8943-7b7a4a76fb97.png)
+
+
 If you click on any option the remaining option collapsed and only one option is present on screen which you have choosen
+
 ![Screenshot (143)](https://user-images.githubusercontent.com/41833207/105996214-0c414400-60d0-11eb-8ca9-77561cf1f734.png)
+
+
 After attending all question of the quiz you can see your result.
+
 ![Screenshot (144)](https://user-images.githubusercontent.com/41833207/105996329-2da23000-60d0-11eb-8edf-ce9f8e3a75c1.png)
+
+
 And after that if you want to play again then click on play Again
+
 ![Screenshot (145)](https://user-images.githubusercontent.com/41833207/105996402-4874a480-60d0-11eb-959d-3d854ab74a6b.png)
