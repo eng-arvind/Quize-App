@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-This is navebar of Quiz App.
+This is the header of Quiz App.
 
 ![Screenshot (141)](https://user-images.githubusercontent.com/41833207/105996017-ca180280-60cf-11eb-945f-b64dc7e8b391.png)
 
